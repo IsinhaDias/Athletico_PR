@@ -2,9 +2,12 @@ body {
     color: whitesmoke;
     background: darkred ;
     margin: 0px;
+    font-family: "Oswald", sans-serif;
 }
 
 header{
     border-bottom: solid 2px black;
     padding: 20px;
+    font-size: 32px;
+    color: white;
 }
